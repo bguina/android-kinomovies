@@ -1,5 +1,7 @@
 # Gradle files
 .gradle/
+!.gradle/wrapper
+!.gradle/libs.versions.toml
 build/
 
 # Local configuration file (sdk path, etc)
